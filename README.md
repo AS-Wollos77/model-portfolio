@@ -2,7 +2,7 @@
 
 [![Live Demo](https://img.shields.io/badge/demo-live-green.svg)](https://model-portfolio.vercel.app)
 
-**Live Demo**: [Посмотреть сайт](https://model-portfolio.vercel.app)
+**Live Demo**: [Посмотреть сайт](model-portfolio-two.vercel.app)
 
 Портфолио, созданное на React с использованием Vite.
 
