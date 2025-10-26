@@ -72,4 +72,24 @@ export const portfolioImages = [
     id: 8,
     src: getImageUrl('gold.webp'),
   },
+
+  {
+    id: 9,
+    src: getImageUrl('web.webp'),
+  },
+
+  {
+    id: 10,
+    src: getImageUrl('horns2.webp'),
+  },
+
+  {
+    id: 11,
+    src: getImageUrl('horns.webp'),
+  },
+
+  {
+    id: 12,
+    src: getImageUrl('back.webp'),
+  },
 ];
