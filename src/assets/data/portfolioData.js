@@ -90,6 +90,11 @@ export const portfolioImages = [
 
   {
     id: 12,
+    src: getImageUrl('krik.webp'),
+  },
+
+  {
+    id: 12,
     src: getImageUrl('back.webp'),
   },
 ];
